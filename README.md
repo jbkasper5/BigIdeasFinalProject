@@ -9,7 +9,7 @@
     15
 ## Datasets Used  
     Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2  
-    [Set2]: [URL]  
+    Arrest Data: https://data.wprdc.org/dataset/arrest-data
     [Set3]: [URL]  
 ## Overview  
     This project is meant to discover the best neighborhood in Pittsburgh by using datasets taken from WPRDC (Western Pennsylvania Regional Data Center).
