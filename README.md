@@ -10,7 +10,6 @@
 ## Datasets Used  
     Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2  
         Contains information about size of the neighborhoods (square miles)  
-        
     Arrest Data: https://data.wprdc.org/dataset/arrest-data  
         Contains information regarding the type of crime and where it was committed
     Neighborhood Population: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3  
