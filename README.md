@@ -1,10 +1,10 @@
 # BigIdeasFinalProject  
 ## Team Name  
-    [Team Name]  
+    Bengeance  
 ## Team Members  
     + Jake Kasper (jbk52@pitt.edu) - responsible for size metric
-    + David Kim () - responsible for population metric
-    + Mitch Radvansky () - responsible for crime metric
+    + David Kim (dak253@pitt.edu) - responsible for population metric
+    + Mitch Radvansky (mir127@pitt.edu) - responsible for crime metric
 ## Canvas Group Number  
     15
 ## Datasets Used  
