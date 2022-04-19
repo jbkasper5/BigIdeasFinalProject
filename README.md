@@ -9,8 +9,13 @@
     15
 ## Datasets Used  
     Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2  
-    Arrest Data: https://data.wprdc.org/dataset/arrest-data
+        Contains information about size of the neighborhoods (square miles)  
+        
+    Arrest Data: https://data.wprdc.org/dataset/arrest-data  
+        Contains information regarding the type of crime and where it was committed
     Neighborhood Population: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3  
+        Contains information regarding populations in which areas 
+        
 ## Overview  
     This project is meant to discover the best neighborhood in Pittsburgh by using datasets taken from WPRDC (Western Pennsylvania Regional Data Center).
     Specifically, our group chose to represent the best neighborhood in Pittsburgh as the one that Spider-Man would be able to operate in most effectively.
